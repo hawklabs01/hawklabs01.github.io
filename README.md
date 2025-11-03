@@ -1,4 +1,4 @@
-# Ansum Solutions
+# Hawk studio
 
 Official portfolio of Ansum Solutions – Web Development, Graphic Design, and IT Services for SMBs.
 
